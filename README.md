@@ -11,7 +11,7 @@ My first repository
 1. **Released Date:** May 24, 2019
 2. **Country of Origin:** China.
 3. **Genre:** Comedy, Musical, Family.
-# Favorite Series/Movie 3
+# Favorite Series/Movie 2
 **ALL OF US ARE DEAD**
 ---
 *All of Us Are Dead is a South Korean coming-of-age zombie apocalypse horror streaming television series.*
